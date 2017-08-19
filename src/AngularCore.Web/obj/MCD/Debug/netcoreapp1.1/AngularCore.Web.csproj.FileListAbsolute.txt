@@ -1,0 +1,9 @@
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\bin\MCD\Debug\netcoreapp1.1\AngularCore.Web.deps.json
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\bin\MCD\Debug\netcoreapp1.1\AngularCore.Web.runtimeconfig.json
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\bin\MCD\Debug\netcoreapp1.1\AngularCore.Web.runtimeconfig.dev.json
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\bin\MCD\Debug\netcoreapp1.1\AngularCore.Web.dll
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\bin\MCD\Debug\netcoreapp1.1\AngularCore.Web.pdb
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\obj\MCD\Debug\netcoreapp1.1\AngularCore.Web.csproj.CoreCompileInputs.cache
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\obj\MCD\Debug\netcoreapp1.1\AngularCore.Web.AssemblyInfo.cs
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\obj\MCD\Debug\netcoreapp1.1\AngularCore.Web.dll
+C:\Users\catriel\Desktop\Projectos de desarrollo\AngularCore\src\AngularCore.Web\obj\MCD\Debug\netcoreapp1.1\AngularCore.Web.pdb
